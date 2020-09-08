@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="decodeframe" type="decodeframe_node" name="decodeframe_node" args="" output="screen" >
+    </node>
+</launch>
